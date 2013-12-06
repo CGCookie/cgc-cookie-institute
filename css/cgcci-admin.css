@@ -1,0 +1,19 @@
+.cgcci-fields p:after {
+	clear:both;
+	content:'';
+	display: table;
+}
+.cgcci-fields .label,
+.cgcci-fields .field {
+	float:left;
+	display: block;
+}
+
+.cgcci-fields .label {
+	width:32%;
+	padding-top:4px;
+}
+
+.cgcci-fields .field {
+	width:65%;
+}

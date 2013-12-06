@@ -1,0 +1,68 @@
+
+.cgcci-quiz-button span.extra {
+	display:block;
+}
+
+.cgcci-quiz-button.please-wait .wait-timer {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+.cgcci-quiz-form {
+	padding-bottom:15px;
+	margin-bottom: 30px;
+}
+	.cgcci-quiz-form:after {
+		clear:both;
+		content:'';
+		display:table;
+	}
+
+.cgcci-quiz-form .gfield_admin_icons {
+	display: none;
+}
+
+.cgcci-quiz-form .gfield_radio,
+.cgcci-quiz-form li,
+.cgcci-quiz-form .gform_footer {
+	clear:both;
+}
+.cgcci-quiz-form .gform_fields li li {
+	list-style: none;
+}
+
+.cgcci-quiz-form .gform_fields,
+.cgcci-quiz-form .gform_fields > li {
+	list-style: decimal inside;
+}
+
+.cgcci-quiz-form .gfield_radio input,
+.cgcci-quiz-form .gfield_radio label {
+	float:left;
+}
+
+.cgcci-quiz-form .gfield_radio input {
+	margin: 2px 10px 0 0;
+}
+
+.quiz-timer-wrap {
+	float: left;
+	margin-right: 20px;
+}
+.quiz-timer {
+	font-family: "BebasNeueRegular",sans-serif;
+	font-size: 48px;
+}
+.timer-description {
+	display:block;
+	font-size: 85%;
+}
+
+.quiz-title-wrap {
+	float: left;
+}
+.quiz-header:after {
+	clear:both;
+	content:'';
+	display:table;
+}
